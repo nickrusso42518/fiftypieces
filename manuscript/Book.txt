@@ -1,1 +1,8 @@
-intro.md
+prologue.md
+section1.md
+section2.md
+section3.md
+section4.md
+section5.md
+section6.md
+epilogue.md

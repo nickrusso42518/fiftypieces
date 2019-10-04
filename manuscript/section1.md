@@ -1,14 +1,11 @@
 # Business Management
-I started a small IT consulting and training business in 2018 and the non-stop
-learning that has resulted has been an emotional roller coaster. Some of these
-blogs relate to my own past experiences, while others take a future view about
-potential future paths and sources of growth.
+I started a small IT consulting and training business in 2018 and the non-stop learning that has resulted has been an emotional roller coaster. Some of these blogs relate to my own past experiences, while others take a future view about potential future paths and sources of growth.
 
 ## 1 Dec - Hypothesis
 
 ## 5 Apr - Single Point of Failure
 
-## 16 Feb - Good, Cheap, Fast; Pick Any Three
+## 16 Feb - Good, Cheap, Fast; Pick Any 3
 
 ## 12 Oct - Modern Retail
 

@@ -1,8 +1,5 @@
 # Money and Investing
-Money is a fascinating topic, not least since all of humanity places our
-collectively confidence in its value. I don't care much for century-old cost
-accounting techniques and prefer to talk about money in informal but practical
-terms. Sometimes this includes criticism of existing institutions or know-how.
+Money is a fascinating topic, not least since all of humanity places our collectively confidence in its value. I don't care much for century-old cost accounting techniques and prefer to talk about money in informal but practical terms. Sometimes this includes criticism of existing institutions or know-how.
 
 ## 27 Jan - Time Value of Money
 

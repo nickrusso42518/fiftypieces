@@ -1,8 +1,10 @@
 # Business Management
 I started a small IT consulting and training business in 2018 and the non-stop learning that has resulted has been an emotional roller coaster. Some of these blogs relate to my own past experiences, while others take a future view about potential new paths and sources of growth.
 
-{width: 30%}
-![Something nice](images/nick.jpg)
+![](images/nick.jpg)
+
+===
+{pagebreak}
 
 ## 1 Dec - Hypothesis
 

@@ -7,7 +7,7 @@ The book is sorted into six sections by topic rather than by chronology to help 
 
 Visit my website at [http://njrusmc.net](http://njrusmc.net) to learn more about me and my other offerings.
 
-{width: 10%}
-![Me]](images/nick.jpg)
+{width: 30%}
+![Me](images/nick.jpg)
 
 Special thanks to my friend Joel Sprague for selflessly volunteering his time to serve as this book's editor. I also appreciate Brian Drinkard for sharing his incredible photography with me, and now, with you.

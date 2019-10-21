@@ -1,5 +1,5 @@
 # Code of Conduct
-These are rules and ideas that govern my personal life. They span a wide variety of personal development areas and I don't mince words. Be warned that this isn't your standard "eat healthy and exercise" advice. Some readers will find these suggestions completely outrageous. In the words of Jocko Willinck, "good".
+These are rules and ideas that govern my personal life. They span a wide variety of personal development areas and I don't mince words. Be warned that this isn't your standard "eat healthy and exercise" advice. Some readers will find these suggestions completely outrageous. In the words of Jocko Willink, "good".
 
 ## 4 May - Comfort Zone
 Last spring, I saw the writing on the wall. My efforts to help a longtime customer build a world class service provider network finally paid off. The problem was, they didn't need me anymore, and quickly started to hold my opinions in progressively lower regard. Despite extraordinary operational impact and commensurate acclaim, I was unhappy. I felt disrespected and discarded. Renowned or not, I stayed long past my useful shelf life.

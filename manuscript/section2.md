@@ -1,5 +1,5 @@
 # Money and Investing
-Money is a fascinating topic, not least since all of humanity places our collectively confidence in its value. I don't care much for century-old cost accounting techniques and prefer to talk about money in informal but practical terms. Sometimes this includes criticism of existing institutions or know-how.
+Money is a fascinating topic, not least since all of humanity places our collective confidence in its value. I don't care much for century-old cost accounting techniques and prefer to talk about money in informal but practical terms. Often this includes criticism of existing institutions or know-how.
 
 ## 27 Jan - Time Value of Money
 "That makes no sense", I told a business manager. "Why would we pay $100 per month for that service when we could buy a compute platform to run it for $3000? It pays for itself in two and a half years." I was convinced that these office-dwellers had no idea how to multiply.

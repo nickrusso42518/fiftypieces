@@ -1,5 +1,8 @@
 # Business Management
-I started a small IT consulting and training business in 2018 and the non-stop learning that has resulted has been an emotional roller coaster. Some of these blogs relate to my own past experiences, while others take a future view about potential future paths and sources of growth.
+I started a small IT consulting and training business in 2018 and the non-stop learning that has resulted has been an emotional roller coaster. Some of these blogs relate to my own past experiences, while others take a future view about potential new paths and sources of growth.
+
+{width: 20%}
+![Something nice]](images/nick.jpg)
 
 ## 1 Dec - Hypothesis
 
@@ -27,7 +30,18 @@ In reality, the need to trade-off one attribute is **only** relevant when the sy
 
 Now for a true story from my professional life. I helped a large US Federal Government customer migrate a delivery process from 100% manual operation to one that used a high degree of automation. The original process was slow, laborious (expensive), and often resulted in products needing rework. Our team was demonstrably able to reduce errors by an order of magnitude, reduce lead time from days to minutes, and significantly reduce human labor cost (long term operating expense). Additionally, no capital investment was required given the software components we used. Good, cheap, and fast, all at once, right? It's possible, I've done it, and don't let naysayers tell you it cannot be done.
 
-## 12 Oct - Modern Retail
+## 12 Oct - Modern Retailing
+I recently took my 11-year-old car in for a tune-up and decided to wait at the shop while the work was done. I took the opportunity to examine almost every product available for sale in the store. It got me thinking about what I call the "dying gasp" of retail operations.
+
+Years ago, when my time was worth much less and I had a lower earning capacity, I would work on my own cars. Nothing crazy, mostly things like oil changes, tire rotations, spark plugs, and other basic tasks. I learned most of these skills from my father, who loves working on cars. Back then, whenever I went to the auto parts store to pick up parts, almost everything for sale was a car part. When I'm in an auto parts store or garage, that's all I expect to see on the shelves.
+
+To be fair, this place was mostly selling car parts too, but I found a wide array of other offerings. Some were overpriced consumer products that I would never buy, like pre-dented, stamped aluminum garage signs. They were about the thickness of a license plate but were made to look battle-tested and old school with large American car brands on them. The manufacturing details revealed they were made in China last year. Also, for those who drive trucks with hitch systems, you can buy a big Ford or Chevy logo to put on top ... just in case anyone missed the massive emblem already on your tailgate.
+
+A more creative product was a black-and-white American flag bumper sticker with one of the stripes colored red. Much like the "support the police" flag using a blue line, this sticker offered support for firefighters. I have great respect for firefighters, but unlike police, their occupation isn't exactly controversial. This is brilliant marketing as it creates a "need" in support of a largely nonexistent political issue with minimal investment required from the producer.
+
+Towards the end of my walk, I saw a lady sitting behind a tiny desk. It had a Hertz logo on it, a large rental car company. I immediately realized what this was. People rent a loaner while their car is being repaired. I researched this business offering more when I got home. Hertz Local Edition or HLE branches are tiny satellite sites that exist to serve a wider variety of customers in exactly these kinds of circumstances. I am certain their competitors have similar programs as well. Of everything I saw that day, this was the only "functionally" valuable new offering.
+
+I realize this garage wasn't purely a retail shop, but they had a six-figure inventory on display. Will these new products and services bring increased revenue to retail businesses? Or will retail continue to lose the war to online shopping?
 
 ## 7 Sep - Meeting Capital
 One of my colleagues recently had a public explosion about his disdain for unnecessary, last-minute meetings. I've been thinking about this regularly and I want to suggest a solution which combines suggestions from several different business authors. First, I need to provide some context about their background.

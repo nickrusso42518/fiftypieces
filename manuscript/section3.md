@@ -1,5 +1,5 @@
 # Sales and Marketing
-Selling is among the oldest of professions. I truly believe that all people are salespeople, and I've been trying to improve my selling game. I'm less interested in Hollywood-style closing techniques and more interested in the softer topics like ethics, trust, and relationship. I also include some practical tips based on my own sales experience.
+Selling is among the oldest of professions. I truly believe that all people are salespeople, and I've been trying to improve my selling game. I'm less interested in Hollywood-style closing techniques and more interested in the softer topics like ethics, trust, and relationships. I also include some practical tips based on my own sales experience.
 
 ## 10 Aug - The Ansoff Matrix
 While listening to a "Great Courses" business book on marketing, I was introduced to the Ansoff matrix. It's a simple 2x2 matrix that intersects customers, new and existing, with products, new and existing. I wanted to talk about the Ansoff matrix as it relates to my personal business offerings. I'd encourage you to repeat the exercise for yourself.
@@ -39,6 +39,17 @@ What would my ideal salesperson do in the scenario outlined earlier in this blog
 This scenario is still playing out today, and I'm rooting for the sales team to do right by the customer and their parent company through ethical selling.
 
 ## 19 Oct - Innovation
+In the late 1990s when I was in middle school, my school held annual "Invention Fairs". Students were instructed to create new products to solve some existing problem. Looking back 20 years later after never personally succeeding at these events, I realized it was never about innovation or creativity.
+
+Instead, the school was introducing us to **entrepreneurism at a young age**. The true goal was to emphasize solving real-life personal and business problems, not fabricated ones. Ironically, this happens in real life today as companies are constantly developing solutions looking for a problem. Sometimes the right approach is less innovation and more market analysis, pragmatism, and good old "business sense".
+
+One of my inventions was a bookmark with a reading light. It was a thin piece of scrap copper with a battery mounted on the back. It sported a small light mounted on a semi-flexible arm. It was fun to make with my father's help. However, it was heavy, fragile, and relatively expensive. The word "bookmark" should have given it away; they mark your position in a book. You don't often leave them in the book while reading. Needless to say, I rightly received no accolades for the idea.
+
+One of my friends invented "The Pick" which was a small metal pin that was tucked in your sneakers. You could use it to scrape mud off your shoes. This was a little more realistic, but not something most adults would ever buy. He also lost. Both this product and the bookmark were innovative solutions for which the industry had no direct equivalents. We approached innovation by taking too narrow of a view and focused only on invention.
+
+By now, you are wondering who won. Each year they picked the top 5 ideas. The kids would present their ideas to real-life venture capitalists, although I'm sure the process was less brutal than on TV. Fourth place was "Store-o-Steps" invented by another friend. Basically, it allowed stair tops to rotate upwards on hinges, much like a cupboard. You could store items inside and he wisely marketed this as perfect for urban construction. First place went to two girls who teamed up to invent the "Car Kit". It was basically a first aid kit with some added goodies like flares, food, and a whistle. Similar roadside assistance products are everywhere today and it's a sizable industry. Not very creative, but highly practical.
+
+Startups fail constantly because someone has a bright idea that solves a problem no one has. Some people understand this as kids, but slowpokes like me realized it years later.
 
 ## 6 Jul - Ideas are Commodity
 One of my favorite quotations is "Ideas are commodity. Execution of them is not" by Michael Dell. It's a frontal assault on the falsehood that big ideas alone make the world go 'round. Everyone has ideas. Literally, everyone. Putting those ideas into practice is what matters.

@@ -1,5 +1,5 @@
 # Time Management
-I am ruthless with my time. As Alan Weiss says "You can always make another dollar, but you can never make another minute". I'm dedicating an entire section of this book to help detail how I manage my time and remain maximally productive. You'll need a good plan, a positive attitude, and the right tools.
+I am ruthless with my time. A wise man once said "You can always make another dollar, but you cannot make another minute". I'm dedicating an entire section of this book to help detail how I manage my time and remain productive. This isn't a prescription, but rather, a description. You'll need a good plan, a positive attitude, and the right tools.
 
 ## 27 Apr - What is Your Time Worth?
 I've written about the time value of money before, and I think all people have an innate understanding that time is money. Employees sell fixed units of time to their employers in return for fixed sums of money. When the time unit is one hour, we call this a wage. When its annual, we call it a salary. But what do we call spending (or losing) money in return for time? Unpaid vacation?

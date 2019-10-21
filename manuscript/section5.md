@@ -1,6 +1,10 @@
 # Failures
 This section contains a combination of my own personal blunders and the destructive behavior of others that negatively affected me. In all cases, there was always an emotionally hard lesson that I learned from the event. I'm not too proud to share these events as they've helped me grow as a person.
 
+![](images/section5.jpg)
+
+===
+
 ## 20 Apr - It's Too Complex
 I'll come out strong; **I hate this excuse**. It's a thinly veiled attempt at propping up what is likely a failing status quo mindset around a challenging problem. Now, with that out of the way, let's examine why people say it.
 

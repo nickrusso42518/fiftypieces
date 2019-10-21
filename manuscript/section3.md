@@ -1,6 +1,10 @@
 # Sales and Marketing
 Selling is among the oldest of professions. I truly believe that all people are salespeople, and I've been trying to improve my selling game. I'm less interested in Hollywood-style closing techniques and more interested in the softer topics like ethics, trust, and relationships. I also include some practical tips based on my own sales experience.
 
+![](images/section3.jpg)
+
+===
+
 ## 10 Aug - The Ansoff Matrix
 While listening to a "Great Courses" business book on marketing, I was introduced to the Ansoff matrix. It's a simple 2x2 matrix that intersects customers, new and existing, with products, new and existing. I wanted to talk about the Ansoff matrix as it relates to my personal business offerings. I'd encourage you to repeat the exercise for yourself.
 

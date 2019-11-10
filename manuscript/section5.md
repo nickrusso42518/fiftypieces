@@ -61,6 +61,15 @@ A contrarian seeks to expand horizons through dialogue. They don't tell you what
 Trolling is malicious scheming designed to frustrate and divide. Contrarian opinions are designed to be thought provoking and constructive. It's really not that hard to see the difference. By definition, it's unlikely you'll frequently harmonize with contrarians; agreement is the exception, not the rule. This does not make us trolls.
 
 ## 2 Nov - Watch Officer
+In December 2009, I took charge of a 60-man platoon of US Marines who specialized in military communications. Although I was a non-commissioned officer in the infantry before receiving my Lieutenant's bars, I was still green. I was completely unprepared for an unexpected deployment one month later.
+
+In January 2010, a massive earthquake shattered the country of Haiti and my unit was one of many dispatched to the scene on 48 hours notice. Fortunately, I was unmarried with an appetite for adventure. It is customary in the military for primary staff officers, a group to which I belonged, to accompany the Commanding Officer anywhere he went. Our CO wanted to be on the ground in Haiti rather than on the ship. Roger that.
+
+Our mission was humanitarian in nature. In our small command post consisting mostly of staff officers and some communications troops under my command, I was assigned as the Watch Officer for 4 hours per day. I wasn't given much guidance on how to do this, and the off-duty Watch Officers were not terribly interested in training me. A subordinate commander was running relief convoys and requested permission to alter his route and timeline based on road conditions. This action had region-wide significance.
+
+I thought it was my job to make decisions on the CO's behalf. Taking initiative is basically what leaders do. I told him to proceed, then reported the event to the CO a few minutes later. The nearby senior officers ripped into me for my extraordinary transgression. The CO was merciful and silenced them, explaining to me that my job was to monitor, observe, assess, and inform. Decisions were to be made by him or his senior staff officers. Then, it was my job to help execute and centrally supervise those decisions. A common phrase used in the military is "good initiative, bad judgment", which was certainly appropriate that day.
+
+I tell this story because it ties together a number of important lessons that I was very grateful to have learned as a 24-year-old junior leader. First, don't assume other people know how to do their jobs. Second, constructively guide others to overcome their failures. Third, give them another chance to succeed.
 
 ## 6 Apr - Well, Technically ...
 We've all heard it. Maybe we've even partaken in it. Someone makes a comment that is generally correct or reasonably illustrates a point. Perhaps the statement was incomplete or too vague. Either way, the "well, technically" brigade comes out in force to pick your pithy remark apart with minutia. How to react?

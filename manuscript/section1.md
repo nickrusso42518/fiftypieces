@@ -80,7 +80,16 @@ Maybe not. If the new product is so much better **and** there is a market demand
 
 Although I don't work in the smart phone industry, I've long believed that the duopoly between iPhone and Android fits into this model. Had there been only one product choice, the new innovations with each successive model over the past decade may not have happened at all. I believe that competition has caused the market to grow exponentially and all market players have been richly rewarded. True, today's smart phone market is sluggish due to saturation in specific geographic regions, but would the introduction of another competitor cause the market to grow again?
 
-## 16 Nov - Sufficiency
+## 16 Nov - Competition
+I think every business student in the world is taught to keep a watchful eye on the competition. I've worked for a variety of vendors, and all of them maintain some kind of competitive analysis. For many businesses, especially solo practices and startups, I think it's a waste of time.
+
+First of all, who cares what your competitors are doing? In the words of Jim Womack, "compete against perfection". Some people claim that rallying your team against a common foe is a good tool to unify an otherwise disjointed team. That is probably true, but if the goal is "beating the competition" and not "solving the customer's problem", you are sure to lose in the long run. I am **not** promoting market ignorance or general aloofness. You cannot enter a market until you know the players, the products, and the customer needs that already exist. Just don't focus on what others are doing. It's the same problem grade schoolers have with gossip and peer pressure.
+
+Today, I'm in the technical training industry, and I intend to become an independent consultant in the future. Last year, I reached out to someone who could be classified as a "competitor" to talk business. We aren't close friends, but he was extremely gracious in sharing information with me. We talked proposals, contracts, taxes, marketing, and a few personal topics. We also offer "competing" products in the market. And guess what? We retweet each other on Twitter in an unspoken alliance because both us understand that coexistence is possible.
+
+Another friend recently published a book into a very niche market that I once dominated. I congratulated him on it and wished him great success. I could have started a price war to undercut his sales and saturate the market with my outdated (but still useful) product. Like some unethical trainers, I could have combined my price cuts with a promise to update my product, even though I have no intention of doing so. Instead, I realized a partnership made more sense. We are actively exploring ways to bundle our products, acknowledging they could be complementary rather than competing.
+
+I am not so naive to believe that business competition isn't a thing. Established companies have to traditionally "compete" in many cases. If you are a small shop, try making some friends before you make too many enemies.
 
 ## 17 Aug - One Year in Business
 **Loop Free Consulting**, my first company, has been in business roughly one year. It's been an incredible ride and deeply satisfying as the business is both profitable and growing faster than I can keep up. It's a good problem to have, but it was not without its challenges.

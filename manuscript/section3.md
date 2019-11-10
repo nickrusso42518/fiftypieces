@@ -67,6 +67,15 @@ What matters is the daily grind, the nitty gritty work that it takes to build a 
 Everything has to start with an idea, but the keyword is **start**. Don't pat yourself on the back until you build something off it. Ask yourself, "Does what I built deliver real-life value to anyone?" For an idea, the answer is always no. For a solution, the answer is maybe, and if you've done your homework, it should always be yes.
 
 ## 26 Oct - Sales Psychology
+As I try to grow my own business, I've become very interested in the sales profession. I'm not talking about the high-pressure tactics seen with automotive and home improvement sales. My opinions thus far have been formed by three completely different books. One was on creating a sales pipeline, one was on story telling, and one was on psychotherapy.
+
+The sales book titled "Predictable Revenue" written in 2011 by Aaron Ross and Marylou Tyler outlines a sales pipeline improvement process. On the topic of cold calling, there was one particular line in the book that wasn't emphasized, but it stuck with me. The book decried prepending "Re:" to unsolicited email messages, falsely indicating that your message was a reply to something your prospect had already sent. To quote the book, "do you really want to start the relationship with a lie?" Highly transactional sales notwithstanding, you must establish trust with your prospects.
+
+I also enjoyed Paul Smith's 2012 book titled "Sell with a story". You could argue this was another sales book, but it really wasn't. It was about stepping away from the rigorous fact-based attitude that many technical people tend to hold. Stories are anecdotes, after all. Prospects like stories because they are relatable and often easy to apply to their own business problems. They provide realism, personality, and context that fact recitation does not. Personal stories that are relevant to the business conversation also can increase trust.
+
+I recently listened to "Cognitive Behavioral Therapy: Techniques for Retraining Your Brain" by Jason Satterfield, recorded in 2015. The book had nothing to do with sales. Instead, it focused on both cognitive and behavioral activities that individuals with mental illness could use to better their situation. It covered depression, anxiety, stress, addiction, insomnia, and more. I learned a valuable sales lesson by listening to the psychotherapist converse with his clients. He was obviously trusted having never prodded for information. He always asked the client how they could solve the problem they themselves just described. He offered descriptive guidance, never prescriptive solutions.
+
+You always want to put yourself in a position where you are asking questions rather than answering them. Engage your client with a relevant story then enlist their expertise to help you solve their problem.
 
 ## 27 Jul - Forecasts
 I'm always thrilled when I can find a bridge between books on completely separate topics. I've recently read Nassim Nicholas Taleb's 2012 book "Antifragile" and, coupled with my extensive research into Lean thinking and the Theory of Contraints (TOC), I've reinforced my opinion about forecasting.

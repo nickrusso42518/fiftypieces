@@ -59,6 +59,15 @@ Intuition and personal experience (not mathematical rigor) suggest that transact
 Pursuing more opportunities increases your transaction costs, but common sense still applies. The biggest threat to controlling both of these costs is "yesmanship", a topic for another day.
 
 ## 30 Nov - Young Money
+Ten years ago, I shared an apartment with two other US Marine officers as we attended a training course. I became close friends with one of them during our 6 months together, but like many military relationships, we grew apart when the course ended. Notwithstanding a brief reunion in Afghanistan, I hadn't seen this friend since the apartment days. That recently changed.
+
+We shared a meal and spent three hours just telling stories and catching up. I knew that he stayed in the military but was surprised to learn that he recently left active duty. He became fed up with the mediocrity and lack of advancement opportunities. "Time in grade" is valued much higher than excellent performance and innovation. He was seeking a better life for himself and his young family. No matter how good you are in the military, you'll get promoted within a year or so of your peer group.
+
+I was delighted to hear that he possessed an entrepreneurial spirit and was becoming a real estate investor in both the mortgage lending and rental property businesses. Naturally, I was inclined to share stories about my own endeavors, including success as a technical trainer and published author. Needless to say, it was an incredible evening and I think we both learned to respect one another in a new light.
+
+I'm not writing this blog because I had fun with a longtime friend. I wanted to comment on what I think is a larger trend around today's younger generations. There is a growing dissatisfaction around retaining a safe and secure job with a large company. This isn't necessarily because the jobs are terrible; my current full-time position is excellent, and I have no complaints. I just don't see myself doing it until I'm 60 years old.
+
+Some of this could be due to a long-time boom economy where, as Gary Vaynerchuk notes, "anyone is able to make it in business today". I think a larger part is that many Americans are learning about investing at younger ages. We are learning that trading time for money over a 40 year career isn't the only path to success in life. Expensive college degrees may not be, either. Value delivery is a leading indicator for wealth creation, and I've enjoyed spending more time with like-minded individuals who are constantly looking for new opportunities.
 
 ## 20 Jul - American Colleges
 Let's not waste time today. The cost of higher education in the United States is becoming oppressively expensive without a commensurate increase in quality, modernity, or relevance.
@@ -92,6 +101,15 @@ I'd elaborate on good debt by saying that borrowing money to increase a potentia
 Many people my age borrow money to pay for everything from luxury cars to new carpets. Alternatively, Dave Ramsey opposes debt financing for everything except 15 year fixed-rate mortgages. Opinions on debt classification run far and wide. I'm not telling you how to think, but I suggest you try to draw your own conclusions by thinking critically about what debt really is.
 
 ## 5 Oct - Product Cost
+Dr. Eliyahu Goldratt's 1984 book "The Goal" is one of my favorites of all time. Entertaining, witty, and relatable, the book is a novel that follows a plant manager as he turns his plant around under the guidance of Goldratt's literary reincarnation. Superficially, it was a manufacturing book, but at a deeper level, it revealed our collective inability to measure the right things.
+
+Goldratt took aim at many things throughout his long career. Cost accounting, just-in-case inventories, misinformed notions of efficiency, and so many more. My favorite was the attack on "product cost". Traditional managers are taught to measure contribution margin for each product, subtracting the cost of goods sold from the sale price. All variable costs for the product such as raw material, labor, burden, and rework are factored in. This seems like a comprehensive and holistic approach on the surface.
+
+The problem with this rudimentary logic is that it doesn't account for excess capacity of the operation. Based on my moderately deep research on the subject, modern plants often have excess capacity along at least some of their fabrication and assembly routings. When this happens, **orders for any product at a sale price greater than its raw material cost are profitable**. Accounting for labor, burden, and other non-material costs associated with these specific orders is completely nonsensical. The people and machines are already available and no new investments are needed to produce.
+
+This logic also holds true for service delivery. The cost to write a report when the firm has excess capacity is limited to the cost of the materials consumed. This might include paper, printer ink, and postage. Possibly not even that in the digital age. Labor cost, in this instance, is just "funny money" and managers who don't know how to sell their excess capacity are missing opportunities to profit.
+
+I'm not saying that contribution margin analyses are worthless. Don't perform them in a vacuum; your capacity (and the market) should govern your measurements, not century-old cost accounting maxims.
 
 ## 30 Mar - Win Together
 The name of this blog is sure to rile up the cynical folks in the crowd and perhaps drive you one step closer to nihilism. I want to provide a few simple examples of winning together in the business world, and specifically, **beyond company boundaries**.

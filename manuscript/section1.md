@@ -6,6 +6,21 @@ I started a small IT consulting and training business in 2018 and the non-stop l
 ===
 
 ## 1 Dec - Hypothesis
+This blog post will be the last one written this year. Conversely, it will be the first one included in the book I'm soon to release. What book, you ask? It's the latest development in my belief that experiments are the lifeblood of any improvement process as they confirm or refute our hypotheses.
+
+I started a non-technical blog in early 2019 because I hypothesized the following:
+
+  1. Readers already have many excellent choices for technical blogs
+  2. Readers want concise blogs not requiring specialized background knowledge
+  3. Readers are increasingly interested in non-technical topics
+
+Given the modest but respectable success of my blog, I'm comfortable saying my hypotheses were generally correct and the content I delivered addressed a real market need. Maybe some of these statements reflect your own desires. After my first 4 blog posts, I surveyed several readers which helped support my claims. I'm not writing this blog to take a victory lap, though.
+
+I decided to conduct my next experiment at a larger scale. That's what this blog is about. Given the growth in the audiobook industry, I hypothesize that readers are willing to pay a small price for the audio narration of content that is already free. I know this is true for me personally and many other professionals who like to learn with their ears while they drive, do chores, and exercise. That being said, I will soon be narrating these blogs into a low-cost audiobook.
+
+Having written all the blogs already, the amount of work required to narrate, edit, publish, and sell the book is relatively low. If my hypothesis is proven false, I expend about one week of time. If it is proven true, I make a bit of money while hopefully educating my readers and listeners. Regardless of the outcome, in the paraphrased words of Eric Reis, "I will always succeed in seeing what happens."
+
+This is validated learning; empirical evidence collected through direct observation of an experiment designed to test a specific hypothesis. This is how I try to make all of my personal and business decisions. Without surfacing and challenging our assumptions, we are flying blind.
 
 ## 5 Apr - Single Point of Failure
 This blog might seem like clickbait for the technically-minded who expected a sermon on how to build highly-available data communications networks. Not so. I'd like to share my thoughts on risk management instead, and for the techies, I'm sure you'll see some obvious parallels.

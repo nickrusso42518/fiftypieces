@@ -97,8 +97,8 @@ A friend of mine was recently chosen to speak at Cisco Live for the first time. 
 
 I was grateful for the unsolicited and useful explanations many voters offered on why they chose recorded demos. These helped confirm my hypothesis around two key behaviors. I feel quite confident people voted based not on what they wanted, but what they thought my friend wanted to hear.
 
-  - They assumed conference attendees want "facts" only.
-  - They assumed my friend was afraid of his demos failing in real-time.
+- They assumed conference attendees want "facts" only.
+- They assumed my friend was afraid of his demos failing in real-time.
 
 These comments completely miss the mark as they are based on the assumption that conferences are like formal schooling. First, in school, students show up and learn primarily through lecture. All of us will agree, school was downright boring most days. Second, if you are afraid of your demo failing in real time, then your demo is poorly planned, your product/service is either faulty or you don't fully understand it, or you are simply afraid of what other people will think of you. I've had demos blow up in my face; stop being timid and own it. Demos with training wheels are not interesting for anyone.
 
@@ -115,8 +115,8 @@ Weiss claims (and I agree) that had these workers billed hourly, they would unqu
 
 At the time of this writing, I am not a true independent consultant, but I currently write content for three different media companies. This is how I am compensated by each.
 
-  - Fixed cash payment upon signing plus live attendance royalties.
-  - Fixed cash payment upon completion plus video viewership royalties.
-  - Fixed percentage of the company's top-line sales for six months.
+- Fixed cash payment upon signing plus live attendance royalties.
+- Fixed cash payment upon completion plus video viewership royalties.
+- Fixed percentage of the company's top-line sales for six months.
 
 Notice that **not one** of these approaches is time-based. You don't need to be a consultant to operate in the value-based compensation world. Yes, my royalties are based on how long people stay in my courses, but I am never paid based on how long it took me to build content. What executive would ever sign a media deal to reward those who deliver slowly? Don't allow companies to penalize you for effectively operating your business. Paraphrasing Weiss, focus instead on how you can bring incredible ROI to your customers and equitable compensation for yourself.

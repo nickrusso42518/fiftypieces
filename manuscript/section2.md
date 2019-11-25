@@ -45,8 +45,8 @@ I am always astounded by how many purchasing departments measure costs. They are
 
 These are my two favorite costs to talk about because they intertwine in interesting ways. I think of them differently than an accountant would.
 
-  - **Transaction cost** measures money spent to do something
-  - **Opportunity cost** measures money lost by doing something else
+- **Transaction cost** measures money spent to do something
+- **Opportunity cost** measures money lost by doing something else
 
 In a sense, these two costs are sides of the same coin. They combine to form the overall cost of a choice, something I informally call **decision cost**. Consider buying a house. This action includes a variety of closing costs, such as realtor commissions, appraisals, title fees, and more. These are clearly transaction costs as they are not part of the product itself. The opportunity cost includes the decision to have not chosen another home, which could have been less expensive, in better condition, or any other variety of positive attributes now unavailable to you.
 
@@ -74,9 +74,9 @@ Let's not waste time today. The cost of higher education in the United States is
 
 A bit of casual empiricism reveals that ballooning administrative staffs are largely to blame. As enrollment (demand) and tuition (price) grow together, clearly the university's top lines are rapidly increasing. Many colleges are nonprofits, and that extra revenue has to go somewhere. It sure isn't going towards hiring more full-time educators. Just by searching the Internet, I've found some questionable administrator roles which were recently added at one school:
 
-  - Senior Vice Provost for Instructional Innovation
-  - Director of Institutional Effectiveness
-  - Associate Provost for Institutional Research and Effectiveness
+- Senior Vice Provost for Instructional Innovation
+- Director of Institutional Effectiveness
+- Associate Provost for Institutional Research and Effectiveness
 
 Though I've not worked in academia, my observations also indicate that many professors are stuck as adjuncts. They are basically part-time disposable contractors with little incentive to excel or display loyalty to the institution. Why pour your soul into research and development for a school that sees you as expendable? I'm sure the bloated administrative staff is behind it, citing the costs of full-time and/or tenured educators.
 
@@ -89,8 +89,8 @@ I've heard many different explanations around what qualifies as "good debt". Som
 
 I have a penchant for pithy and contrarian opinions, which may influence what follows. Kiyosaki keeps it simple:
 
-  - Bad debt is debt that **you** pay
-  - Good debt is debt that **other people** pay for you
+- Bad debt is debt that **you** pay
+- Good debt is debt that **other people** pay for you
 
 By this definition, almost all forms of debt can be classified as bad debt. Car loans, primary residence mortgages, revolving credit loans, home equity loans, and even small business loans when your personal assets are posted as collateral. If you are paying debt from your wages, commissions, or any other form of income that requires direct labor, it's bad debt.
 

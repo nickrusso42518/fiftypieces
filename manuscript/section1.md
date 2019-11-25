@@ -10,9 +10,9 @@ This blog post will be the last one written this year. Conversely, it will be th
 
 I started a non-technical blog in early 2019 because I hypothesized the following:
 
-  1. Readers already have many excellent choices for technical blogs
-  2. Readers want concise blogs not requiring specialized background knowledge
-  3. Readers are increasingly interested in non-technical topics
+1. Readers already have many excellent choices for technical blogs
+2. Readers want concise blogs not requiring specialized background knowledge
+3. Readers are increasingly interested in non-technical topics
 
 Given the modest but respectable success of my blog, I'm comfortable saying my hypotheses were generally correct and the content I delivered addressed a real market need. Maybe some of these statements reflect your own desires. After my first 4 blog posts, I surveyed several readers which helped support my claims. I'm not writing this blog to take a victory lap, though.
 
@@ -36,9 +36,9 @@ Like Rich Dad teaches us, a full-time job with a big company is risky. This blog
 ## 16 Feb - Good, Cheap, Fast; Pick 3
 The age-old adage says that you can only choose two attributes from the list of "good, cheap, or fast". I've seen all kinds of fancy mathematical graphs depicting a three-dimensional parabola that shows the limits of how the inputs of quality, cost, and lead time all interact. The CAP theorem for databases similarly suggests you can choose consistency, availability, or partition tolerance, but never all three. You can choose two, we are told, and trade-off the third. Intuitively, this makes sense, but is it a general truth? Let's examine all three possibilies.
 
-  - A high-quality, low-cost product cannot be delivered quickly.
-  - A high-quality product delivered quickly will be expensive.
-  - Anything delivered rapidly at low cost will be low quality.
+- A high-quality, low-cost product cannot be delivered quickly.
+- A high-quality product delivered quickly will be expensive.
+- Anything delivered rapidly at low cost will be low quality.
 
 In many cases, the "choose two" constraint does hold true, and I even claimed so in a video series on network complexity I delivered to The Network Collective in 2018. Again, is this a universal truth? Only a single counterexample makes the generalization false.
 
@@ -64,10 +64,10 @@ One of my colleagues recently had a public explosion about his disdain for unnec
 
 In Patrick Lencioni's 2004 book "Death By Meeting", he suggests that attending meetings is the most important work executives do. I agree. Poorly run meetings waste time, money, effort, and are completely enervating. Lencioni describes the following plan:
 
-  - Daily stand up: 5 minutes, exchange information
-  - Weekly tactical: 60 minutes, short term tasks
-  - Monthly strategic: 2 hours, big decision making
-  - Quarterly offsite: 2 days, company/market introspection
+- Daily stand up: 5 minutes, exchange information
+- Weekly tactical: 60 minutes, short term tasks
+- Monthly strategic: 2 hours, big decision making
+- Quarterly offsite: 2 days, company/market introspection
 
 Jocko Willinck and Leif Babin discuss the concept of "leadership capital" in their 2018 book "The Dichotomy of Leadership". They assert that leaders have a fixed amount of authority and influence. It can be invested wisely by enforcing important work standards and encouraging difficult but necessary changes. It can also be squandered on expense report penny-pinching or political loyalty to failing projects. John Maxwell describes a similar approach using "spare change" in "The 21 Irrefutable Laws of Leadership", originally published in 1998, again using monetary terms to measure a leader's capability.
 

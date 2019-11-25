@@ -12,9 +12,9 @@ I'm guilty of it myself. People fear what they don't understand, but in the tech
 
 More recently, I teamed up with a sharp 22 year old on a network provisioning project. The goal was to take a system from zero to hero in about an hour, including software installation, hardening, configuration, licensing, and connectivity checking. Though the solution worked nicely and was successfully demonstrated many times, the dinosaurs from a previous era worked hard to marginalize it. They saw it as a threat to their existence. I loved their post hoc rationalization:
 
-  - It doesn't work (was observed working in real time).
-  - It required too many cables (only four short Ethernet jumpers).
-  - The syntax is too difficult.
+- It doesn't work (was observed working in real time).
+- It required too many cables (only four short Ethernet jumpers).
+- The syntax is too difficult.
 
 Here's the syntax, modified to protect customer data. I'm confident any English-speaking person age 10 or older can read or edit it accordingly. Just populate the relevant fields with specific values, and type "make".
 

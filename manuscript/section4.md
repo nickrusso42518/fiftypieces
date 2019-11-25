@@ -23,10 +23,10 @@ Many management books describe a 2x2 matrix that classifies tasks by their impor
 
 Here are some examples of "important but not urgent" tasks. Note that more specific details such as dates, assignees, and measurables would exist for a real business; these are simplified examples. None of these will happen overnight, and all require constant effort.
 
-  - Develop network operations playbook for client cutovers
-  - Streamline network configuration management via CI/CD
-  - Deploy NFV for customized service delivery and reduced lead time
-  - Improve inventory turns by X-fold to bring Y% increase in profitability
+- Develop network operations playbook for client cutovers
+- Streamline network configuration management via CI/CD
+- Deploy NFV for customized service delivery and reduced lead time
+- Improve inventory turns by X-fold to bring Y% increase in profitability
 
 Any tasks that are not important, regardless of their urgency, need to be minimized or eliminated altogether. There is a reason why the term "busy work" has a well-deserved negative connotation. Those who prioritize busy work as important work are lazy by any objective measure. As described by one colleague: "If we take away their useless makework, it reveals their laziness. Suddenly, they have no excuse for not doing the work that really needs doing."
 
@@ -72,9 +72,9 @@ First, I tried podcasts. I found a popular DevOps podcast. I had high hopes, but
 
 Next, I tried audiobooks. This is the single best decision I have made in all of 2017. Through 2018, I read approximately 100 books (including re-reads) for a total of 37 days listening time. That's more than 10% of the total time in a year, roughly 900 hours. Here's why I love audiobooks:
 
-  - They are fun, and some books have extraordinary actors and actresses
-  - You can listen while commuting, exercising, or doing chores
-  - You can carry several books on your mobile phone
+- They are fun, and some books have extraordinary actors and actresses
+- You can listen while commuting, exercising, or doing chores
+- You can carry several books on your mobile phone
 
 Some critics claim that if you are engaged in another activity, say, folding laundry, then listening to an audiobook while doing it is less effective than deep, focused reading. That's probably true. It's most definitely true when listening to highly technical or nuanced content. My point is to capitalize on the time you've already invested by adding in **some** educational value. Just read the book 2 or 3 times to compensate. Don't overthink it. It's free to re-read them, both in terms of money and time. You'll be surprised how much time you spend commuting, doing chores, and other activities that leave your ears (and frankly, your mind) ready for action.
 

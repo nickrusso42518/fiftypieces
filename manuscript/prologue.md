@@ -10,4 +10,4 @@ Visit my website at [http://njrusmc.net](http://njrusmc.net) to learn more about
 {width: 50%}
 ![Me](images/nick.jpg)
 
-Special thanks to my friend Joel Sprague at [http://www.joelwsprague.com/](http://www.joelwsprague.com/) for selflessly volunteering his time to serve as this book's editor. I also appreciate Brian Drinkard at [http://drinkardphotography.com](http://drinkardphotography.com) for sharing his incredible photography with me, and now, with you.
+Special thanks to my friend Joel Sprague at [http://www.joelsprague.com/](http://www.joelsprague.com/) for selflessly volunteering his time to serve as this book's editor. I also appreciate Brian Drinkard at [http://drinkardphotography.com](http://drinkardphotography.com) for sharing his incredible photography with me, and now, with you.

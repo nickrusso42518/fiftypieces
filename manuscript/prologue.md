@@ -1,3 +1,5 @@
+{frontmatter}
+
 # Prologue
 No one likes boring book introductions, and some of you might be tempted to skip through this part. Those of you who have consumed my existing publications know that I am not one for small talk. I'm writing this book because I want to introduce people to a new way of thinking. I want to share my own personal experiences, including successes, failures, and everything in between. I'm writing this book because I want to change the way advice is shared. I am dismayed that modern blogs have become springboards for advertisers, and seemingly, little else. This book, I hope, will serve as a refreshing change.
 
@@ -11,3 +13,5 @@ Visit my website at [http://njrusmc.net](http://njrusmc.net) to learn more about
 ![Me](images/nick.jpg)
 
 Special thanks to my friend Joel Sprague at [http://www.joelsprague.com/](http://www.joelsprague.com/) for selflessly volunteering his time to serve as this book's editor. I also appreciate Brian Drinkard at [http://drinkardphotography.com](http://drinkardphotography.com) for sharing his incredible photography with me, and now, with you.
+
+{mainmatter}

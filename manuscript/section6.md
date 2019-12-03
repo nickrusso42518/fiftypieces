@@ -89,7 +89,7 @@ I try to use this style of leadership in my personal and professional life whene
 I worked with that CTO on many other job sites and he stayed true to his word. He was hard-nosed because he was completely focused on results, and while a touch of empathy wouldn't kill him, I considered him a capable leader. 
 
 ## 9 Nov - Power Supply
-I attended Interop in 2019, which was both my first time attending and speaking at the event. After my talk, I spoke to many audience members, awkwardly carrying a laptop and power supply while trying to shake hands. I ended up losing my power supply and this frustrated me. I spent probably 10 minutes looking for it, but I suspect it was casually snagged by another attendee.
+I attended the Interop conference in 2019, which was both my first time attending and speaking at the event. After my talk, I spoke to many audience members, awkwardly carrying a laptop and power supply while trying to shake hands. I ended up losing my power supply and this frustrated me. I spent probably 10 minutes looking for it, but I suspect it was casually snagged by another attendee.
 
 I wanted to be responsible and get it replaced quickly. I enlisted the help of a colleague who generously ordered me a replacement. It would be waiting on my doorstep for me **after** my trip. I still had two more days at Interop with plenty of work to do, both personal and work-related tasks. I'm an introvert who planned on blogging and studying that night. Instead, I realized that there were literally thousands of people I could meet if I was willing to vacate my comfort zone. It was not a hard choice. I promptly left my hotel room.
 
